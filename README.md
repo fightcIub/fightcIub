@@ -4,7 +4,7 @@
 
 
 <p align="center">
-Oh, now he’s callin’ a fruit sophisticated. 
+🍋 Oh, now he’s callin’ a fruit sophisticated. 
 
 </p>
 
