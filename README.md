@@ -10,5 +10,5 @@
 
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=fuyushirono&label=stalkers&color=orange&style=plastic"
+<img src="https://komarev.com/ghpvc/?username=fuyushirono&label=bubbles&color=orange&style=plastic"
 </p>
